@@ -1,37 +1,18 @@
-﻿double a = 5;
-double b = 4;
-double c = 2;
-double d = (a + b) / c;
-Console.WriteLine(d);
+﻿decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
 
-double e = 19;
-double f = 23;
-double g = 8;
-double h = (e + f) / g;
-Console.WriteLine(h);
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
 
-double dmax = double.MaxValue;
-double dmin = double.MinValue;
-int intmax = int.MaxValue;
-int intmin = int.MinValue;
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c /d);
 
-Console.WriteLine($"The range of double is {dmax} to {dmin} whereas the interger range is only {intmax} to {intmin}");
+Console.WriteLine(Math.PI);
 
-double third = 1.0 / 3.0;
-Console.WriteLine(third);
+double radius = 2.5;
 
-double thrid2 = 1/3;
-Console.WriteLine(thrid2);
-//hmmmm?
-
-double what = 2%3;
-Console.WriteLine(what);
-
-double what2 = 2/3;
-Console.WriteLine(what2);
-
-double what3 = 2.0/3.0;
-Console.WriteLine(what3);
-
-double what4 = 3.3%3.0;
-Console.WriteLine(what4);
+double area = radius * radius * Math.PI;
+Console.WriteLine(area);

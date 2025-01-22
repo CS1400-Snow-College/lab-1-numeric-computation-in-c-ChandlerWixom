@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-ChandlerWixom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a4e0296f9bb2b0e2bb64b3d4b06e861459814c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a2c1e816e5cc11e6e3ea2e07ae4504ce1152fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-ChandlerWixom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-ChandlerWixom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
