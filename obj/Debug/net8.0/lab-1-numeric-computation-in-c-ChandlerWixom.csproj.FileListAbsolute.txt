@@ -1,0 +1,15 @@
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\bin\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.exe
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\bin\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.deps.json
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\bin\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.runtimeconfig.json
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\bin\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\bin\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.pdb
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.AssemblyInfoInputs.cache
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.AssemblyInfo.cs
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.csproj.CoreCompileInputs.cache
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.sourcelink.json
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\refint\lab-1-numeric-computation-in-c-ChandlerWixom.dll
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.pdb
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\lab-1-numeric-computation-in-c-ChandlerWixom.genruntimeconfig.cache
+C:\Users\Frost\my-code-dir\lab-1-numeric-computation-in-c-ChandlerWixom\obj\Debug\net8.0\ref\lab-1-numeric-computation-in-c-ChandlerWixom.dll
