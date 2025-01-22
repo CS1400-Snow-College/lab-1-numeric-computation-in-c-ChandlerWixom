@@ -1,22 +1,37 @@
-﻿int a = 7;
-int b = 4;
-int c = 3;
-int d = (a + b) / c;
-int e = (a + b) % c;
+﻿double a = 5;
+double b = 4;
+double c = 2;
+double d = (a + b) / c;
+Console.WriteLine(d);
 
-Console.WriteLine($"quotient: {d}");
-Console.WriteLine($"remainder: {e}");
+double e = 19;
+double f = 23;
+double g = 8;
+double h = (e + f) / g;
+Console.WriteLine(h);
 
-int max = int.MaxValue;
-int min = int.MinValue;
+double dmax = double.MaxValue;
+double dmin = double.MinValue;
+int intmax = int.MaxValue;
+int intmin = int.MinValue;
 
-Console.WriteLine("The range of integers is {min} to {max}.");
-// intersting the $ sign !!!
-Console.WriteLine($"The range of integers is {min} to {max}.");
+Console.WriteLine($"The range of double is {dmax} to {dmin} whereas the interger range is only {intmax} to {intmin}");
 
-int what = max + 3;
-Console.WriteLine($"An example of overflow: {what} is 3 more then {max} interestingly 2 more then {min} I wonder?");
+double third = 1.0 / 3.0;
+Console.WriteLine(third);
 
-int wonder = max + 1;
-Console.WriteLine($"So what is this then? {wonder}");
-// oh werid
+double thrid2 = 1/3;
+Console.WriteLine(thrid2);
+//hmmmm?
+
+double what = 2%3;
+Console.WriteLine(what);
+
+double what2 = 2/3;
+Console.WriteLine(what2);
+
+double what3 = 2.0/3.0;
+Console.WriteLine(what3);
+
+double what4 = 3.3%3.0;
+Console.WriteLine(what4);
