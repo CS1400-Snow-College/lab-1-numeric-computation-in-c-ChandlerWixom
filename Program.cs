@@ -1,18 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-/*Console.WriteLine("Hello, World!");
-sad
-dsa O_O
-asd
-sad
-dsafsknjdgsfjhfsd
-comments !!!! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*/
+﻿int a = 5;
+int b = 4;
+int c = 2;
 
-Console.WriteLine("hellow sir");
+int d = a + b * c;
+Console.WriteLine(d);
 
-int a = 18;
-int b = 6;
-int c = (a * b) / (a - b);
-Console.WriteLine(c);
+int f = (a + b) * c;
+Console.WriteLine(f);
 
-int e = (a * b) / a - b;
+int e = (a + b ) -6 * c + (12 * 4) / 3 + 12;
 Console.WriteLine(e);
+
+int g = b / a;
+Console.WriteLine(g);
+
+int h = a/ b;
+Console.WriteLine(h);
