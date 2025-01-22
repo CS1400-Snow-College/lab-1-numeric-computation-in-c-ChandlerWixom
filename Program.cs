@@ -1,18 +1,4 @@
-﻿decimal min = decimal.MinValue;
-decimal max = decimal.MaxValue;
-Console.WriteLine($"The range of the decimal type is {min} to {max}");
-
-double a = 1.0;
-double b = 3.0;
-Console.WriteLine(a / b);
-
-decimal c = 1.0M;
-decimal d = 3.0M;
-Console.WriteLine(c /d);
-
-Console.WriteLine(Math.PI);
-
-double radius = 2.5;
-
-double area = radius * radius * Math.PI;
-Console.WriteLine(area);
+﻿Console.WriteLine("Please Input Radius to find Area of Circle");
+double inputradius = Convert.ToDouble(Console.ReadLine());
+// apparently you can convert strings into other things with convert.to
+Console.WriteLine($"The area is {inputradius * inputradius * Math.PI}.");
